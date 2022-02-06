@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @04Megarox
-- 👀 I’m interested in Programming, cooking, fps games, listening to music
+- 👀 I’m interested in learning new Programming languages(already well aware with python), cooking, fps games, listening to music
 - 🌱 I’m currently learning in highschool (12th grade) with subjects Physics,Chemistry,Computer Science and Mathematics
 - 📫 How to reach me : cps.chiragjain@gmail.com
 
